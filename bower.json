@@ -1,0 +1,20 @@
+{
+  "name": "cloaked-octo-dangerzone",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AndrewRiehm/cloaked-octo-dangerzone",
+  "authors": [
+    "Andrew Riehm <andrew.riehm@gmail.com>"
+  ],
+  "keywords": [
+    "awesome"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
